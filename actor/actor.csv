@@ -1,0 +1,21 @@
+,name,year,movie_rated,run_length,genres,release_date,rating,num_raters,num_reviews,review_url
+0,Joker,2019,R,2h 2min,Crime; Drama; Thriller; ,4 October 2019 (USA),8.5,822351,10279,https://www.imdb.com/title/tt7286456/reviews/_ajax?ref_=undefined&paginationKey=
+1,Mystic River,2003,R,2h 18min,Crime; Drama; Mystery; ,15 October 2003 (USA),7.9,408998,1036,https://www.imdb.com/title/tt0327056/reviews/_ajax?ref_=undefined&paginationKey=
+2,Training Day,2001,R,2h 2min,Crime; Drama; Thriller; ,5 October 2001 (USA),7.7,378412,711,https://www.imdb.com/title/tt0139654/reviews/_ajax?ref_=undefined&paginationKey=
+3,Gladiator,2000,R,2h 35min,Action; Adventure; Drama; ,5 May 2000 (USA),8.5,1297718,2636,https://www.imdb.com/title/tt0172495/reviews/_ajax?ref_=undefined&paginationKey=
+4,American Beauty,1999,R,2h 2min,Drama; ,1 October 1999 (USA),8.3,1043085,2891,https://www.imdb.com/title/tt0169547/reviews/_ajax?ref_=undefined&paginationKey=
+5,The Pianist,2002,R,2h 30min,Biography; Drama; Music; ,28 March 2003 (USA),8.5,701576,924,https://www.imdb.com/title/tt0253474/reviews/_ajax?ref_=undefined&paginationKey=
+6,The Revenant,2015,R,2h 36min,Action; Adventure; Drama; ,8 January 2016 (USA),8.0,678829,1594,https://www.imdb.com/title/tt1663202/reviews/_ajax?ref_=undefined&paginationKey=
+7,The King's Speech,2010,R,1h 58min,Biography; Drama; History; ,25 December 2010 (USA),8.0,624817,754,https://www.imdb.com/title/tt1504320/reviews/_ajax?ref_=undefined&paginationKey=
+8,There Will Be Blood,2007,R,2h 38min,Drama; ,25 January 2008 (USA),8.2,498312,1318,https://www.imdb.com/title/tt0469494/reviews/_ajax?ref_=undefined&paginationKey=
+9,Lincoln,2012,PG-13,2h 30min,Biography; Drama; History; ,16 November 2012 (USA),7.3,239112,794,https://www.imdb.com/title/tt0443272/reviews/_ajax?ref_=undefined&paginationKey=
+10,The Last King of Scotland,2006,R,2h 3min,Biography; Drama; History; ,19 January 2007 (USA),7.7,172012,371,https://www.imdb.com/title/tt0455590/reviews/_ajax?ref_=undefined&paginationKey=
+11,The Theory of Everything,2014,PG-13,2h 3min,Romance; ,26 November 2014 (USA),7.7,387452,501,https://www.imdb.com/title/tt2980516/reviews/_ajax?ref_=undefined&paginationKey=
+12,The Artist,2011,PG-13,1h 40min,Comedy; Romance; ,20 January 2012 (USA),7.9,226187,661,https://www.imdb.com/title/tt1655442/reviews/_ajax?ref_=undefined&paginationKey=
+13,Bohemian Rhapsody,2018,PG-13,2h 14min,Biography; Drama; Music; ,2 November 2018 (USA),8.0,428335,3356,https://www.imdb.com/title/tt1727824/reviews/_ajax?ref_=undefined&paginationKey=
+14,Ray,2004,PG-13,2h 32min,Biography; Drama; Music; ,29 October 2004 (USA),7.7,135305,460,https://www.imdb.com/title/tt0350258/reviews/_ajax?ref_=undefined&paginationKey=
+15,Crazy Heart,2009,R,1h 52min,Drama; Music; Romance; ,5 February 2010 (USA),7.2,82500,248,https://www.imdb.com/title/tt1263670/reviews/_ajax?ref_=undefined&paginationKey=
+16,Dallas Buyers Club,2013,R,1h 57min,Biography; Drama; ,22 November 2013 (USA),8.0,427034,408,https://www.imdb.com/title/tt0790636/reviews/_ajax?ref_=undefined&paginationKey=
+17,Darkest Hour,2017,PG-13,2h 5min,Biography; Drama; ,22 December 2017 (USA),7.4,163237,629,https://www.imdb.com/title/tt4555426/reviews/_ajax?ref_=undefined&paginationKey=
+18,Milk,2008,R,2h 8min,Biography; Drama; ,30 January 2009 (USA),7.5,161721,310,https://www.imdb.com/title/tt1013753/reviews/_ajax?ref_=undefined&paginationKey=
+19,Capote,2005,R,1h 54min,Biography; Crime; Drama; ,3 February 2006 (USA),7.3,122624,448,https://www.imdb.com/title/tt0379725/reviews/_ajax?ref_=undefined&paginationKey=
